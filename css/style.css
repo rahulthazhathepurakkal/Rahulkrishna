@@ -238,7 +238,7 @@ span.span1 {
     font-weight: 600;
     top: 0;
     left: 0;
-    -webkit-animation: move 5s;
+    -webkit-animation: move 9s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-delay: 1s;
 }
