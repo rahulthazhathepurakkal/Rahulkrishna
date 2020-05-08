@@ -147,7 +147,7 @@ nav ul li:nth-child(6) {
     border: none;
 }
 
-.header-right p {
+.header-right a {
     display: inline;
     letter-spacing: 2px;
     color: #fff;
@@ -2050,7 +2050,7 @@ span.icon_g_plus {
         width: 61%;
     }
     span.span1 {
-        width: 200px;
+        width: 240px;
     }
     figcaption.port-gird-caption-agileits_w3layouts h3 {
         padding: 10px 0px;
